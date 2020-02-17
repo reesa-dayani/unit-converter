@@ -20,10 +20,7 @@ import java.text.*;
  * @author reesadayani
  */
 
-//Name: Reesa Dayani
-//Date: August 2nd, 2019
-//Title: Unit 3, Activity 3 - Linear Conversion
-//Purpose: to convert imperial units of measure to linear units using return methods.
+
 
 public class U3A3_ConvertMe extends JFrame implements ActionListener {
                 DecimalFormat x = new DecimalFormat(".##");
